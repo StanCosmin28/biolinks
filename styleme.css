@@ -10,6 +10,7 @@
   box-sizing: border-box;
 }
 html {
+
   overflow-x: hidden; /* Disable The Posibility of Scrolling on x axis */
   scroll-behavior: smooth; /* Will make the transition form a section to another smooth */
 }

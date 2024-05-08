@@ -2,7 +2,7 @@
 gsap.from("#poza", {
   opacity: 0,
   y: -1200,
-  duration: 0.5,
+  duration: .8,
   ease: "power.out",
   onComplete: function () {
     gsap.fromTo(
